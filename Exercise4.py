@@ -29,3 +29,9 @@ def remove_chars(input_string, n):
 
 # Print a message indicating that characters are being removed from a string
 print("Removing characters from a string")
+
+
+# Set the input string and the number of characters to remove
+input_string = "Annyeonghaseyo"
+n_chars_to_remove = 8 
+
