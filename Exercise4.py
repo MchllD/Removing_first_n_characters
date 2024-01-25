@@ -35,3 +35,7 @@ print("Removing characters from a string")
 input_string = "Annyeonghaseyo"
 n_chars_to_remove = 8 
 
+
+# Call the remove_chars function with the input string and the number of characters to remove
+result = remove_chars(input_string, n_chars_to_remove)
+
