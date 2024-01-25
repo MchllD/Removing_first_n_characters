@@ -15,3 +15,13 @@
 # Call the remove_chars function with the input string and the number of characters to remove
 
 # Print the original string and the string after removing the specified number of characters
+
+
+
+# _____________________________________________________________ actual code _____________________________________________________________________
+# Function to remove characters from a string
+def remove_chars(input_string, n):
+    # Set result to the substring starting from index n to the end of the string
+    result = input_string[n:]
+    # Return the modified string
+    return result
