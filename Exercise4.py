@@ -25,3 +25,7 @@ def remove_chars(input_string, n):
     result = input_string[n:]
     # Return the modified string
     return result
+
+
+# Print a message indicating that characters are being removed from a string
+print("Removing characters from a string")
